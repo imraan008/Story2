@@ -1,0 +1,6 @@
+secrets.txt
+
+# comments are written like this.
+# *.txt
+# the above command says that all files having.txt 
+# extension will be ignored.
